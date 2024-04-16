@@ -1,7 +1,7 @@
 ![Watch Now](./img/Design.jpg)
 # One page Portfolio Website (HTML CSS Project)
 
-[---](https://chsatyanarayanamurthy.github.io/Portfolio/)
+[Link](https://chsatyanarayanamurthy.github.io/Portfolio/)
 
 ### Made with ❤️ by [satyasai](https://www.instagram.com/shaifarfan08/)
 
